@@ -26,8 +26,11 @@ pip install scikit-learn xgboost pyarrow fastparquet numpy pandas
 程式預期讀取 Parquet 格式的資料集：
 
 需自行前往下載並加以處理放置資料集於指定路徑 (`./storage/`)。
+
+```
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/rules
 https://drive.google.com/file/d/1_Beb-3g-BtBolGYeOwEurU7qMmr9twv7/view?usp=sharing
+```
 
 ``` text
 
